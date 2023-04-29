@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "exampleswiftpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Dishant10/ExampleSwiftPackage",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4d872506f9c0086b97de42ce2548c4857c210b80"
+      }
+    }
+  ],
+  "version" : 2
+}

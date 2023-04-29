@@ -9,7 +9,7 @@ import Foundation
 import SwiftUI
 
 @available(iOS 13.0, *)
-public struct SwiftUI:View{
+public struct SwiftUIView:View{
     
     public var textString : String = ""
     public var body: some View{
