@@ -16,7 +16,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
             
-            SwiftUIView()
+            SwiftUI(textString: "nothing")
         }
         .padding()
     }
